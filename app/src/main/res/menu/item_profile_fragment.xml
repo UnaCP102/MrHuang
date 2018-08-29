@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_HomePage"
+        android:icon="@drawable/profile"
+        android:title="會員資料" />
+    <item
+        android:id="@+id/item_Date"
+        android:icon="@drawable/receipt_1_32"
+        android:title="消費明細" />
+
+    <item
+        android:id="@+id/item_Reserved"
+        android:icon="@drawable/blogging32"
+        android:title="評論" />
+
+
+
+</menu>
